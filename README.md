@@ -2,7 +2,6 @@
 ```
 Tool Installer
 Untuk Memudahkan Install Tool2 Di Repo Cvar1984
-Sekalian Kita Bisa Tau Daftar Tool Di Reponya
 ```
 # Cara Install
 ```
