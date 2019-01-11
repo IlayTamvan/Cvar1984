@@ -1,7 +1,8 @@
 # Cvar1984
 ```
 Tool Installer
-Untuk Install Tool2 Milik Cvar1984
+Untuk Install Tool2 Di Repo Cvar1984
+Sekalian Kita Bisa Tau Tool Di Reponya
 ```
 # Cara Install
 ```
