@@ -11,6 +11,7 @@ pip2 install requests
 git clone https://github.com/IlayTamvan/Cvar1984.git
 cd Cvar1984
 unzip Cvar1984.zip
+rm rf Cvar1984.zip
 python2 Cvar1984.py
 ```
 
